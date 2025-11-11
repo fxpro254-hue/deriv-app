@@ -2,8 +2,7 @@
   "build": {
     "env": {
       "NODE_ENV": "production"
-    },
-    "script": "npm run storybook:build"
+    }
   },
   "routes": [
     {
